@@ -19,9 +19,7 @@ h2{
 .main-row{
     padding-left: 2.5rem;
 }
-.main-row button{
-    transition: .3s;
-}
+
 .card{
     width: 18rem;
     background: #0E2431;
@@ -47,8 +45,8 @@ h2{
 .card:hover .card-body{
     visibility: visible;
     transform: translateY(-50px);
-    transition: .7s;
-    height: 160px;
+    transition: .4s;
+    height: 170px;
    
     
 }
